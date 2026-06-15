@@ -1,7 +1,7 @@
 # adapted from https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
 
 # put *your* name here
-name:
+name:iris
 
 declaration: >-
   I declare that everything I have submitted in this assignment is entirely my
@@ -18,8 +18,8 @@ collaboration:
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external code)
 code:
-  - comment:
-    url:
+  - comment: 
+    url: https://claude.ai/share/fdded410-dea1-4f44-b155-3dbc411f0f91
     licence:
 
 
