@@ -1,5 +1,5 @@
-# (Title)
-(Short description)
+# Sound of color
+Trasform the dominant color from the image/frame into sound
 
 ## (Installing)
 ...
